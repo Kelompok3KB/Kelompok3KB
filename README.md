@@ -1,20 +1,16 @@
 # Facerecognition-SVM
 
-Kelompok 7
-- F55120007 Khairunnisa
-- F55120018 Khairul Insan Karim
-- F55120022 Widianingrum
-- F55120040 Moh. Raihan Dirga Putra Lamadjido
-- F55120061 Dwi Putri Andini
-- F55120070 Tafania Natalia Kasaedja
-- F55120074 Adellia Masya Zagita
-- F55120077 Moh Fahmi
-- F55120079 Ahmad Hidayatullah Nur Pratikta
-- F55120092 Asmaun Hasyanah Sary
-- F55120095 Parhan Pauzi Salim
-- F55120098 Muh. Ilham Rizky Cahyadi
-- F55120107 Sitti Nurlaili Qofifa
-- F55120115 Muhammad Dival Maulana
+Kelompok 3
+- F55120093 Anugrah Aidin Yotolembah
+- F55120097 Jonathan Zebina Laala
+- F55120063 Muhammad Bilal
+- F55120112 Muh Faried Muchtar
+- F55120032 Arif Gilang Pradana
+- F55120108 Aulia Izzatul Azmi 
+- F55120025 Usama
+- F55120014 Tri Karama 
+- F55120056 Isma
+- F55120006 Ahmad Mustamin
 
 
 # Cara Menggunakan
